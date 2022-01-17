@@ -1,1 +1,1 @@
-pip install matplotlib numpy pandas jupyter notebook
+pip install matplotlib numpy pandas jupyter notebook seaborn
